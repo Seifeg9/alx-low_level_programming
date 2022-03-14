@@ -1,5 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea06ee7ea3cda7bbe8a3da6b334a6ade73a93ef4
 int main(void)
 {
 int n;
