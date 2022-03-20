@@ -2,7 +2,8 @@
 /**
 *_isupper:
 *@c: print int
-*Return: 0[A[A value if letteris uppercase.[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C*[[C/*/
+*Return: 0[A[A value if letteris uppercase.
+*/
 int _isupper(int c)
 {
 is (c >= 'A' && c<= 'Z')

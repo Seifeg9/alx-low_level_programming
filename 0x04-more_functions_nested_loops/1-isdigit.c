@@ -1,6 +1,6 @@
 #include <main.h>
 /**
-*int _isdigit(int c)[D[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[[C[C[C[C[C[C[C[C[C[C[C[_isdigit - if it is a digit.
+*int _isdigit(int c) - if it is a digit.
 *@c: print int
 *Return: Always 0.
 */
@@ -14,4 +14,4 @@ else
 {
 return (0)
 }
-}[A[A[C[C[C[C[C[C[C[C[C;[B[B[B[D[D[D[D[D[D[D[D[D[D[D
+}
