@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 /**
 *_isupper:
 *@c: print int
-*Return: 0[A[A value if letteris uppercase.
+*Return: 0
 */
 int _isupper(int c)
 {
