@@ -1,8 +1,11 @@
 #include "main.c"
+
 /**
-*print_alphabet_10 - prints the alphabet
-*return: always 0
-*/
+ * print_alphabet_10 - prints the alphabet
+ * 
+ * Return: Always 0.
+ */
+
 void print_alphabet_x10(void)
 {
 int i;
