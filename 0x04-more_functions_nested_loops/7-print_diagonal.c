@@ -1,7 +1,9 @@
-#includ <main.h>
+#includ "main.h"
+
 /**
  * print_diagonal - prints diagonal line.
  * @n: print int
+ *
  * Return: Always 0.
  */
 void print_diagonal(int n)
@@ -12,7 +14,7 @@ if (n > 0)
 {
 for (i = 0; i < n; i++)
 {
-for (a = =; a < i; b++)
+for (a = 0; a < i; a++)
 {
 _putchar (' ');
 }
