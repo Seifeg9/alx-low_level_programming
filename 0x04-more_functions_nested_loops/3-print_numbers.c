@@ -1,8 +1,10 @@
-#include <main.h>
+#include "main.h"
+
 /**
-*print_numbers - print numbers
-*Return: Always 0.
-*/
+ * print_numbers - prints numbers from 0 t0 9
+ *
+ * Return: Always 0.
+ */
 void print_numbers(void)
 {
 int i;
@@ -14,3 +16,4 @@ i++;
 }
 _putchar ('\n');
 }
+
