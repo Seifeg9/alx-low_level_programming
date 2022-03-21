@@ -2,10 +2,11 @@
 
 /**
  * print_square - prints a square on the terminal
- * @size: print size
+ * @size: size of the square
  *
  * Return: Always 0.
  */
+
 void print_square(int size)
 {
 int i;
