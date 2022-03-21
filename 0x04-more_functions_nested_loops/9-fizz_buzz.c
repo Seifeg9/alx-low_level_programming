@@ -11,7 +11,7 @@ int main(void)
 int i = 100;
 int j;
 
-j = 1
+j = 1;
 while (j <= i)
 {
 if (j % 3 == 0 && j % 5 == 0)
