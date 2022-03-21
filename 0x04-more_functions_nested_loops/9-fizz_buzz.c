@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
  * main - entery point
  *
- * Return: void
+ * Return: Always 0.
  */
+
 int main(void)
 {
 int i = 100;
