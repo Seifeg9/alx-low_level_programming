@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_triangle - prints triangle
+ * print_triangle - function that prints triangle
  * @size: print size
  *
  * Return: Always 0.
@@ -12,7 +12,7 @@ void print_triangle(int size)
 int i;
 int j;
 int k;
-int l
+int l;
 if (size > 0)
 {
 k = size - 1;
