@@ -1,12 +1,28 @@
-#include"main.h"
+#include "main.h"
+
 /**
-*_abs - is a function that prints the absolute value of a number
-*n: inputs an integer
-*Return; 1 if >-, 0 if =0, positive if negative
-*/
-int_abs(int n)
+ * _abs - value absolute
+ *
+ *@n: The int to print
+ * Return: Always 0.
+ */
+
+int _abs(int n)
 {
-if(n < 0)
-return(n*-1);
-return(n);
+
+if (n < 0)
+{
+return (n * (-1));
+}
+
+else if (n == 0)
+{
+return (0);
+}
+
+else
+{
+return (n);
+}
+
 }
