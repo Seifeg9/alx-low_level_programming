@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * program that generates random valid passwords
  */
 int main(void)
 {
