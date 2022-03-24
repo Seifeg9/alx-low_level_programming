@@ -1,0 +1,1 @@
+My readme for more pointers arrays and strings.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[D[D[D[D the task more pointers arrays and strings.
